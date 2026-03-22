@@ -54,22 +54,6 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ---
 
-## Project Structure
-
-```
-yield-calculator/
-├── src/
-│   ├── App.tsx       # Full app — protocol data, compound logic, chart, comparison
-│   ├── main.tsx      # React entry point
-│   └── index.css     # Tailwind base styles
-├── index.html
-├── package.json
-├── tailwind.config.js
-└── vite.config.ts
-```
-
----
-
 ## How the Maths Works
 
 Compound interest formula used:
@@ -96,5 +80,5 @@ This tool is for educational and illustrative purposes only. APY rates shown are
 ## Built By
 
 **Esther Okon** — Web3 Developer, DeFi Educator & Community Builder  
-🌐 Portfolio: https://personal-portfolio-site-ten-rouge.vercel.app/  
+🌐 Portfolio: https://personal-portfolio-site-ten-rouge.vercel.app/web3
 🐦 Twitter: [@thesmarrtEsther](https://twitter.com/thesmarrtEsther)

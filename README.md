@@ -33,44 +33,6 @@ An interactive DeFi yield farming calculator that models compound returns across
 
 ---
 
-## Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/yield-calculator.git
-cd yield-calculator
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
-Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
-
----
-
-## How the Maths Works
-
-Compound interest formula used:
-
-```
-A = P × (1 + r/n)^(n×t)
-```
-
-Where:
-- `A` = final amount
-- `P` = principal
-- `r` = annual interest rate (APY as decimal)
-- `n` = compounding frequency per year
-- `t` = time in years
-
----
-
 ## Disclaimer
 
 This tool is for educational and illustrative purposes only. APY rates shown are approximate historical averages and do not guarantee future returns. DeFi carries significant risk including smart contract vulnerabilities, liquidation risk, and impermanent loss. Always do your own research.
